@@ -15,7 +15,7 @@ export default function Home() {
           </div>
           
           <h1 className="text-5xl font-bold text-gray-800 mb-4">
-            Vibe Coding Template
+            dit is een testtest
           </h1>
           
           <p className="text-xl text-purple-700 font-medium mb-6">
